@@ -3,7 +3,7 @@
 An asynchronous API wrapper for the official [Battlerite Api](http://battlerite-docs.readthedocs.io/en/master/introduction.html).
 
 `PM> Install-Package Battlerite.Net -Version 1.0.0`
-
+or
 `dotnet add package Battlerite.Net --version 1.0.0`
 
 ## Usage
