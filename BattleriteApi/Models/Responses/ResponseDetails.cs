@@ -30,5 +30,14 @@ namespace Rocket.Battlerite
             IncludeTelemetry = value;
             return this;
         }
+
+        public ResponseDetails WithAll(bool value = true)
+        {
+            IncludeChampions = value;
+            IncludeTeams = value;
+            IncludeChampions = value;
+            IncludeTelemetry = value;
+            return this;
+        }
     }
 }

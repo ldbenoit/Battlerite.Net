@@ -251,8 +251,8 @@ namespace Rocket.Battlerite
         private async Task GetJsonObjects()
         {
             var assembly = Assembly.GetExecutingAssembly();
-            StreamReader gp = new StreamReader( assembly.GetManifestResourceStream("battleriteapi.Assets.gameplay.json"));
-            StreamReader st = new StreamReader( assembly.GetManifestResourceStream("battleriteapi.Assets.stackables.json"));
+            StreamReader gp = new StreamReader( assembly.GetManifestResourceStream("BattleriteApi.Assets.gameplay.json"));
+            StreamReader st = new StreamReader( assembly.GetManifestResourceStream("BattleriteApi.Assets.stackables.json"));
             _gameplay = JObject.Parse( await gp.ReadToEndAsync());
             _stackable = JObject.Parse(await st.ReadToEndAsync());
         }
