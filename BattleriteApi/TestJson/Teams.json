@@ -1,0 +1,848 @@
+{
+    "data": [
+        {
+            "type": "team",
+            "id": "975047689026842624",
+            "attributes": {
+                "name": "Lime and Eggplant",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 39063,
+                    "division": 3,
+                    "divisionRating": 67,
+                    "league": 2,
+                    "losses": 31,
+                    "members": [
+                        "798367224359428096",
+                        "798326804736778240"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 2,
+                    "topDivisionRating": 3,
+                    "topLeague": 2,
+                    "wins": 29
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "975060544849612800",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 4,
+                    "divisionRating": 38,
+                    "league": 3,
+                    "losses": 195,
+                    "members": [
+                        "798326804736778240"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 3,
+                    "topDivisionRating": 25,
+                    "topLeague": 3,
+                    "wins": 188
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "975155650525052928",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 36,
+                    "league": 3,
+                    "losses": 94,
+                    "members": [
+                        "798367224359428096"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 3,
+                    "topDivisionRating": 77,
+                    "topLeague": 3,
+                    "wins": 76
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "975166426816098304",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 39238,
+                    "division": 3,
+                    "divisionRating": 88,
+                    "league": 1,
+                    "losses": 15,
+                    "members": [
+                        "799500803785232384",
+                        "798326804736778240"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 2,
+                    "topDivisionRating": 92,
+                    "topLeague": 1,
+                    "wins": 24
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "975175208430379008",
+            "attributes": {
+                "name": "Cupcake, Lime \u0026 Eggplant",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 36037,
+                    "division": 1,
+                    "divisionRating": 10,
+                    "league": 1,
+                    "losses": 57,
+                    "members": [
+                        "799500803785232384",
+                        "798326804736778240",
+                        "798367224359428096"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 1,
+                    "topDivisionRating": 83,
+                    "topLeague": 1,
+                    "wins": 61
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "975468450027859968",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 0,
+                    "members": [
+                        "798326804736778240",
+                        "798367224359428096",
+                        "799270897679732736"
+                    ],
+                    "placementGamesLeft": 5,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "975930406450950144",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 0,
+                    "members": [
+                        "799500803785232384",
+                        "798367224359428096"
+                    ],
+                    "placementGamesLeft": 5,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "979966367535124480",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 7,
+                    "league": 2,
+                    "losses": 2,
+                    "members": [
+                        "931485005690093568",
+                        "798326804736778240"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 5,
+                    "topDivisionRating": 7,
+                    "topLeague": 2,
+                    "wins": 4
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "979973180737335296",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 75,
+                    "league": 2,
+                    "losses": 7,
+                    "members": [
+                        "931485005690093568",
+                        "798326804736778240",
+                        "931802379064582144"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 4,
+                    "topDivisionRating": 33,
+                    "topLeague": 2,
+                    "wins": 6
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "980230528148103168",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 0,
+                    "members": [
+                        "937869431957270528",
+                        "798326804736778240",
+                        "780285523427209216"
+                    ],
+                    "placementGamesLeft": 5,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "980230634175905792",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 0,
+                    "members": [
+                        "937869431957270528",
+                        "798326804736778240"
+                    ],
+                    "placementGamesLeft": 5,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "982470203336232960",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 0,
+                    "members": [
+                        "798326804736778240",
+                        "936795204126674944"
+                    ],
+                    "placementGamesLeft": 5,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "982728011034054656",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 0,
+                    "members": [
+                        "798326804736778240",
+                        "799270897679732736"
+                    ],
+                    "placementGamesLeft": 5,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "984306755553075200",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 1,
+                    "members": [
+                        "798326804736778240",
+                        "972975562958241792"
+                    ],
+                    "placementGamesLeft": 3,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 1
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "984313526476750848",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 30002,
+                    "division": 4,
+                    "divisionRating": 45,
+                    "league": 2,
+                    "losses": 26,
+                    "members": [
+                        "798326804736778240",
+                        "972975562958241792",
+                        "798367224359428096"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 4,
+                    "topDivisionRating": 72,
+                    "topLeague": 2,
+                    "wins": 26
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "984342826202624000",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 0,
+                    "members": [
+                        "972975562958241792",
+                        "798367224359428096"
+                    ],
+                    "placementGamesLeft": 5,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "985725220201611264",
+            "attributes": {
+                "name": "ThanksForCarry",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 1,
+                    "divisionRating": 89,
+                    "league": 1,
+                    "losses": 14,
+                    "members": [
+                        "798326804736778240",
+                        "933515605427027968"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 5,
+                    "topDivisionRating": 46,
+                    "topLeague": 2,
+                    "wins": 8
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "985750468997324800",
+            "attributes": {
+                "name": "Trash Tier",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 39029,
+                    "division": 3,
+                    "divisionRating": 36,
+                    "league": 2,
+                    "losses": 80,
+                    "members": [
+                        "798326804736778240",
+                        "933515605427027968",
+                        "798367224359428096"
+                    ],
+                    "placementGamesLeft": 0,
+                    "topDivision": 5,
+                    "topDivisionRating": 18,
+                    "topLeague": 3,
+                    "wins": 88
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "985787099376713728",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 1,
+                    "members": [
+                        "933515605427027968",
+                        "798367224359428096"
+                    ],
+                    "placementGamesLeft": 4,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "986109205578653696",
+            "attributes": {
+                "name": "",
+                "shardId": "global",
+                "stats": {
+                    "avatar": 0,
+                    "division": 5,
+                    "divisionRating": 0,
+                    "league": 0,
+                    "losses": 0,
+                    "members": [
+                        "798326804736778240",
+                        "798367224359428096",
+                        "781442362474909696"
+                    ],
+                    "placementGamesLeft": 5,
+                    "topDivision": 5,
+                    "topDivisionRating": 0,
+                    "topLeague": 0,
+                    "wins": 0
+                },
+                "titleId": "stunlock-studios-battlerite"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "team",
+            "id": "986114020182466560",
+            "attributes": {
+                "100 11086    0 11086    0     0  11086      0 --:--:--  0:00:01 --:--:-- 110864359428096",
+                "781442362474909696"
+            ],
+            "placementGamesLeft": 5,
+            "topDivision": 5,
+            "topDivisionRating": 0,
+            "topLeague": 0,
+            "wins": 0
+        },
+        "titleId": "stunlock-studios-battlerite"
+    },
+    "relationships": {
+        "assets": {
+            "data": []
+        }
+    }
+},
+{
+    "type": "team",
+    "id": "988304327066140672",
+    "attributes": {
+        "name": "OokamiLikesPenis",
+        "shardId": "global",
+        "stats": {
+            "avatar": 39006,
+            "division": 5,
+            "divisionRating": 35,
+            "league": 2,
+            "losses": 6,
+            "members": [
+                "798326804736778240",
+                "933515605427027968",
+                "972975562958241792"
+            ],
+            "placementGamesLeft": 0,
+            "topDivision": 5,
+            "topDivisionRating": 75,
+            "topLeague": 2,
+            "wins": 8
+        },
+        "titleId": "stunlock-studios-battlerite"
+    },
+    "relationships": {
+        "assets": {
+            "data": []
+        }
+    }
+},
+{
+    "type": "team",
+    "id": "989013369115824128",
+    "attributes": {
+        "name": "",
+        "shardId": "global",
+        "stats": {
+            "avatar": 0,
+            "division": 5,
+            "divisionRating": 0,
+            "league": 0,
+            "losses": 0,
+            "members": [
+                "798326804736778240",
+                "988995090141847552"
+            ],
+            "placementGamesLeft": 5,
+            "topDivision": 5,
+            "topDivisionRating": 0,
+            "topLeague": 0,
+            "wins": 0
+        },
+        "titleId": "stunlock-studios-battlerite"
+    },
+    "relationships": {
+        "assets": {
+            "data": []
+        }
+    }
+},
+{
+    "type": "team",
+    "id": "989343109567619072",
+    "attributes": {
+        "name": "",
+        "shardId": "global",
+        "stats": {
+            "avatar": 0,
+            "division": 5,
+            "divisionRating": 0,
+            "league": 0,
+            "losses": 0,
+            "members": [
+                "979525877174046720",
+                "929792580584148992",
+                "798326804736778240"
+            ],
+            "placementGamesLeft": 5,
+            "topDivision": 5,
+            "topDivisionRating": 0,
+            "topLeague": 0,
+            "wins": 0
+        },
+        "titleId": "stunlock-studios-battlerite"
+    },
+    "relationships": {
+        "assets": {
+            "data": []
+        }
+    }
+},
+{
+    "type": "team",
+    "id": "989343127779336192",
+    "attributes": {
+        "name": "",
+        "shardId": "global",
+        "stats": {
+            "avatar": 0,
+            "division": 5,
+            "divisionRating": 0,
+            "league": 0,
+            "losses": 0,
+            "members": [
+                "979525877174046720",
+                "798326804736778240"
+            ],
+            "placementGamesLeft": 5,
+            "topDivision": 5,
+            "topDivisionRating": 0,
+            "topLeague": 0,
+            "wins": 0
+        },
+        "titleId": "stunlock-studios-battlerite"
+    },
+    "relationships": {
+        "assets": {
+            "data": []
+        }
+    }
+},
+{
+    "type": "team",
+    "id": "990059112312217600",
+    "attributes": {
+        "name": "",
+        "shardId": "global",
+        "stats": {
+            "avatar": 0,
+            "division": 5,
+            "divisionRating": 0,
+            "league": 0,
+            "losses": 0,
+            "members": [
+                "781442362474909696",
+                "946790754272034816",
+                "798326804736778240"
+            ],
+            "placementGamesLeft": 5,
+            "topDivision": 5,
+            "topDivisionRating": 0,
+            "topLeague": 0,
+            "wins": 0
+        },
+        "titleId": "stunlock-studios-battlerite"
+    },
+    "relationships": {
+        "assets": {
+            "data": []
+        }
+    }
+},
+{
+    "type": "team",
+    "id": "990314794370351104",
+    "attributes": {
+        "name": "",
+        "shardId": "global",
+        "stats": {
+            "avatar": 0,
+            "division": 5,
+            "divisionRating": 0,
+            "league": 0,
+            "losses": 0,
+            "members": [
+                "933515605427027968",
+                "776171537882550272",
+                "798367224359428096"
+            ],
+            "placementGamesLeft": 5,
+            "topDivision": 5,
+            "topDivisionRating": 0,
+            "topLeague": 0,
+            "wins": 0
+        },
+        "titleId": "stunlock-studios-battlerite"
+    },
+    "relationships": {
+        "assets": {
+            "data": []
+        }
+    }
+},
+{
+    "type": "team",
+    "id": "990822223336058880",
+    "attributes": {
+        "name": "",
+        "shardId": "global",
+        "stats": {
+            "avatar": 0,
+            "division": 5,
+            "divisionRating": 0,
+            "league": 0,
+            "losses": 0,
+            "members": [
+                "798326804736778240",
+                "781442362474909696"
+            ],
+            "placementGamesLeft": 5,
+            "topDivision": 5,
+            "topDivisionRating": 0,
+            "topLeague": 0,
+            "wins": 0
+        },
+        "titleId": "stunlock-studios-battlerite"
+    },
+    "relationships": {
+        "assets": {
+            "data": []
+        }
+    }
+}
+],
+"links": {
+"self": "https://api.dc01.gamelockerapp.com/shards/global/teams?tag[playerIds]=798367224359428096,798326804736778240\u0026tag[season]=7"
+},
+"meta": {}
+}

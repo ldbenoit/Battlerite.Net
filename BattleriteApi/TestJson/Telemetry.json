@@ -1,0 +1,4809 @@
+[
+    {
+        "cursor": 3302101027,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305551856,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3301893314,
+        "type": "Structures.MatchReservedUser",
+        "dataObject": {
+            "time": 1524305360466,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "serverType": "QUICK3V3",
+            "characterLevel": 12,
+            "teamId": "985750468997324800",
+            "totalTimePlayed": 601523,
+            "characterTimePlayed": 38432,
+            "character": 1377055301,
+            "team": 2,
+            "rankingType": "RANKED",
+            "mount": 303336846,
+            "attachment": 863234132,
+            "outfit": 288759042,
+            "emote": 1848357461,
+            "league": 2,
+            "division": 3,
+            "divisionRating": 33,
+            "seasonId": 7
+        }
+    },
+    {
+        "cursor": 3302045890,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1732729597
+        }
+    },
+    {
+        "cursor": 3302449802,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1377055301,
+            "typeId": 2011481930,
+            "sourceTypeId": 1594360014,
+            "scoreType": "HEALING_RECEIVED",
+            "value": 62
+        }
+    },
+    {
+        "cursor": 3302449904,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 65687534,
+            "typeId": 1632681037,
+            "sourceTypeId": 1632681037,
+            "scoreType": "HEALING_DONE",
+            "value": 12
+        }
+    },
+    {
+        "cursor": 3302449884,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 1333700447,
+            "sourceTypeId": 1389576316,
+            "scoreType": "CONTROL_DONE",
+            "value": 16
+        }
+    },
+    {
+        "cursor": 3302045906,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1218444929
+        }
+    },
+    {
+        "cursor": 3302384091,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305799785,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 2,
+            "character": 1749055646,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302388253,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305804567,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 2,
+            "character": 1377055301,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1257680118,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302086268,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305540157,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1283963825,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302115345,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305564542,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "type": "RUNE_LASTHIT",
+            "value": 1883293537,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302243571,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305676694,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ULTIMATE_USED",
+            "value": 16920816,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449912,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 65687534,
+            "typeId": 1014869658,
+            "sourceTypeId": 1014869658,
+            "scoreType": "DAMAGE_DONE",
+            "value": 56
+        }
+    },
+    {
+        "cursor": 3302407620,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305821808,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 2,
+            "character": 1749055646,
+            "type": "RUNE_LASTHIT",
+            "value": 149552258,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045889,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1069414475
+        }
+    },
+    {
+        "cursor": 3302304116,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305735997,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449872,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 1546404495,
+            "sourceTypeId": 1546404495,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 12
+        }
+    },
+    {
+        "cursor": 3302045903,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1222687868
+        }
+    },
+    {
+        "cursor": 3302449889,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 1028311787,
+            "sourceTypeId": 1028311787,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449870,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 716090704,
+            "sourceTypeId": 716090704,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 2
+        }
+    },
+    {
+        "cursor": 3302243891,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305678743,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192"
+        }
+    },
+    {
+        "cursor": 3302449831,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 1445018825,
+            "sourceTypeId": 1445018825,
+            "scoreType": "USES",
+            "value": 8
+        }
+    },
+    {
+        "cursor": 3302449823,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1377055301,
+            "typeId": 1257680118,
+            "sourceTypeId": 1257680118,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449888,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1749055646,
+            "typeId": 1028311787,
+            "sourceTypeId": 1028311787,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449868,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 6683886,
+            "sourceTypeId": 6683886,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 4
+        }
+    },
+    {
+        "cursor": 3302449855,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 37,
+            "sourceTypeId": 1353508382,
+            "scoreType": "CONTROL_DONE",
+            "value": 10
+        }
+    },
+    {
+        "cursor": 3302449906,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 1900368609,
+            "sourceTypeId": 1900368609,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 28
+        }
+    },
+    {
+        "cursor": 3302449947,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851058,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1422481252,
+            "typeId": 1546404495,
+            "sourceTypeId": 1546404495,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302251191,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305685602,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 1,
+            "character": 1749055646,
+            "type": "ULTIMATE_USED",
+            "value": 1319449529,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302063865,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305521793,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "type": "MOUNT_DURATION",
+            "value": 21,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449827,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 65687534,
+            "typeId": 1028311787,
+            "sourceTypeId": 1028311787,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3301893258,
+        "type": "com.stunlock.service.matchmaking.avro.QueueEvent",
+        "dataObject": {
+            "time": 1524305360052,
+            "userId": "798326804736778240",
+            "teamId": "985750468997324800",
+            "sessionId": "F1533034A0E1D1FEF6C345D519A01D90",
+            "season": 7,
+            "eventType": "MATCH",
+            "timeJoinedQueue": "23248530922212854",
+            "timeInQueue": 237.00388,
+            "character": 1422481252,
+            "characterArchetype": 2,
+            "queueTypes": [
+                "QUICK3V3RANKED"
+            ],
+            "limitMatchmakingRange": false,
+            "regionSamples": [
+                {
+                    "region": "us_west",
+                    "latencyMS": 45
+                },
+                {
+                    "region": "us_east",
+                    "latencyMS": 67
+                },
+                {
+                    "region": "us_southeast",
+                    "latencyMS": 77
+                }
+            ],
+            "preferredRegion": "us_west",
+            "rankingType": "RANKED",
+            "league": 2,
+            "division": 3,
+            "divisionRating": 33,
+            "teamSize": 3,
+            "teamMembers": [
+                "933515605427027968",
+                "798367224359428096"
+            ],
+            "placementGamesLeft": 0,
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "matchRegion": "us_southeast",
+            "teamSide": 2,
+            "autoMatchmaking": true
+        }
+    },
+    {
+        "cursor": 3301893256,
+        "type": "com.stunlock.service.matchmaking.avro.QueueEvent",
+        "dataObject": {
+            "time": 1524305360052,
+            "userId": "933515605427027968",
+            "teamId": "985750468997324800",
+            "sessionId": "6572B5CE8A6170E748EDDD3034902DF3",
+            "season": 7,
+            "eventType": "MATCH",
+            "timeJoinedQueue": "23248530922212854",
+            "timeInQueue": 237.00388,
+            "character": 543520739,
+            "characterArchetype": 8,
+            "queueTypes": [
+                "QUICK3V3RANKED"
+            ],
+            "limitMatchmakingRange": false,
+            "regionSamples": [
+                {
+                    "region": "us_west",
+                    "latencyMS": 45
+                },
+                {
+                    "region": "us_east",
+                    "latencyMS": 67
+                },
+                {
+                    "region": "us_southeast",
+                    "latencyMS": 77
+                }
+            ],
+            "preferredRegion": "us_west",
+            "rankingType": "RANKED",
+            "league": 2,
+            "division": 3,
+            "divisionRating": 33,
+            "teamSize": 3,
+            "teamMembers": [
+                "798367224359428096",
+                "798326804736778240"
+            ],
+            "placementGamesLeft": 0,
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "matchRegion": "us_southeast",
+            "teamSide": 2,
+            "autoMatchmaking": true
+        }
+    },
+    {
+        "cursor": 3302241019,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305674750,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 1,
+            "character": 1749055646,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449789,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 850881741,
+            "sourceTypeId": 850881741,
+            "scoreType": "USES",
+            "value": 8
+        }
+    },
+    {
+        "cursor": 3302166252,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305605209,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 1,
+            "character": 543520739,
+            "type": "MOUNTS_AFTER_ELEVATOR",
+            "value": 1,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449836,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 2039596325,
+            "sourceTypeId": 2039596325,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 35
+        }
+    },
+    {
+        "cursor": 3302449857,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 2014529482,
+            "sourceTypeId": 2014529482,
+            "scoreType": "USES",
+            "value": 4
+        }
+    },
+    {
+        "cursor": 3302246034,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305681338,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 1,
+            "character": 1749055646,
+            "type": "ALLY_DEATH_ENERGY_PICKUP",
+            "value": 75,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3301893313,
+        "type": "Structures.MatchReservedUser",
+        "dataObject": {
+            "time": 1524305360465,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "serverType": "QUICK3V3",
+            "characterLevel": 16,
+            "teamId": "985750468997324800",
+            "totalTimePlayed": 147518,
+            "characterTimePlayed": 57101,
+            "character": 543520739,
+            "team": 2,
+            "rankingType": "RANKED",
+            "mount": 1058172411,
+            "attachment": 978102076,
+            "outfit": 2145366555,
+            "emote": 831239957,
+            "league": 2,
+            "division": 3,
+            "divisionRating": 33,
+            "seasonId": 7
+        }
+    },
+    {
+        "cursor": 3302191143,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305626409,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "MOUNT_DURATION",
+            "value": 14,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449909,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1749055646,
+            "typeId": 2039596325,
+            "sourceTypeId": 2039596325,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 15
+        }
+    },
+    {
+        "cursor": 3302449797,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 908088907,
+            "sourceTypeId": 908088907,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 15
+        }
+    },
+    {
+        "cursor": 3302449834,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 37,
+            "sourceTypeId": 1939263245,
+            "scoreType": "CONTROL_DONE",
+            "value": 27
+        }
+    },
+    {
+        "cursor": 3302230692,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305662760,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 1,
+            "character": 1455985392,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 353791176,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302317268,
+        "type": "Structures.RoundFinishedEvent",
+        "dataObject": {
+            "time": 1524305745147,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "round": 1,
+            "roundLength": 120,
+            "winningTeam": 2,
+            "playerStats": [
+                {
+                    "userID": "790070065960726528",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 778,
+                    "damageDone": 587,
+                    "damageReceived": 457,
+                    "healingDone": 89,
+                    "healingReceived": 213,
+                    "disablesDone": 102,
+                    "disablesReceived": 116,
+                    "energyGained": 200,
+                    "energyUsed": 200,
+                    "timeAlive": 119,
+                    "abilityUses": 73
+                },
+                {
+                    "userID": "935059630755848192",
+                    "kills": 1,
+                    "deaths": 1,
+                    "score": 513,
+                    "damageDone": 410,
+                    "damageReceived": 326,
+                    "healingDone": 48,
+                    "healingReceived": 93,
+                    "disablesDone": 55,
+                    "disablesReceived": 54,
+                    "energyGained": 167,
+                    "energyUsed": 0,
+                    "timeAlive": 57,
+                    "abilityUses": 77
+                },
+                {
+                    "userID": "799758378493677568",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 667,
+                    "damageDone": 302,
+                    "damageReceived": 492,
+                    "healingDone": 306,
+                    "healingReceived": 210,
+                    "disablesDone": 59,
+                    "disablesReceived": 159,
+                    "energyGained": 245,
+                    "energyUsed": 125,
+                    "timeAlive": 102,
+                    "abilityUses": 68
+                },
+                {
+                    "userID": "933515605427027968",
+                    "kills": 1,
+                    "deaths": 0,
+                    "score": 1088,
+                    "damageDone": 460,
+                    "damageReceived": 305,
+                    "healingDone": 503,
+                    "healingReceived": 227,
+                    "disablesDone": 125,
+                    "disablesReceived": 91,
+                    "energyGained": 256,
+                    "energyUsed": 50,
+                    "timeAlive": 120,
+                    "abilityUses": 96
+                },
+                {
+                    "userID": "798367224359428096",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 422,
+                    "damageDone": 367,
+                    "damageReceived": 215,
+                    "healingDone": 0,
+                    "healingReceived": 0,
+                    "disablesDone": 55,
+                    "disablesReceived": 14,
+                    "energyGained": 201,
+                    "energyUsed": 125,
+                    "timeAlive": 48,
+                    "abilityUses": 75
+                },
+                {
+                    "userID": "798326804736778240",
+                    "kills": 2,
+                    "deaths": 0,
+                    "score": 737,
+                    "damageDone": 493,
+                    "damageReceived": 564,
+                    "healingDone": 95,
+                    "healingReceived": 364,
+                    "disablesDone": 149,
+                    "disablesReceived": 111,
+                    "energyGained": 263,
+                    "energyUsed": 225,
+                    "timeAlive": 120,
+                    "abilityUses": 85
+                }
+            ]
+        }
+    },
+    {
+        "cursor": 3302449833,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 659588529,
+            "sourceTypeId": 659588529,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 40
+        }
+    },
+    {
+        "cursor": 3302102380,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305552402,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "type": "ALLY_DEATH_ENERGY_PICKUP",
+            "value": 100,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449881,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 34,
+            "sourceTypeId": 16920816,
+            "scoreType": "CONTROL_DONE",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302449835,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1377055301,
+            "typeId": 461675303,
+            "sourceTypeId": 461675303,
+            "scoreType": "DAMAGE_DONE",
+            "value": 8
+        }
+    },
+    {
+        "cursor": 3302449902,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1749055646,
+            "typeId": 34,
+            "sourceTypeId": 1414049618,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 27
+        }
+    },
+    {
+        "cursor": 3302449791,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 65687534,
+            "typeId": 1632681037,
+            "sourceTypeId": 1632681037,
+            "scoreType": "USES",
+            "value": 2
+        }
+    },
+    {
+        "cursor": 3302449798,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1422481252,
+            "typeId": 1414514524,
+            "sourceTypeId": 1414514524,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302310167,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305740777,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449812,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1422481252,
+            "typeId": 2046833332,
+            "sourceTypeId": 1900368609,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302118813,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305566417,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 345156391,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302280271,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305714772,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1283963825,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449907,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1749055646,
+            "typeId": 946779441,
+            "sourceTypeId": 690503554,
+            "scoreType": "HEALING_DONE",
+            "value": 58
+        }
+    },
+    {
+        "cursor": 3302449861,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 946779441,
+            "sourceTypeId": 690503554,
+            "scoreType": "HEALING_DONE",
+            "value": 98
+        }
+    },
+    {
+        "cursor": 3302122671,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305573098,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 353791176,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045892,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192",
+            "round": 0,
+            "character": 65687534,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1423275395
+        }
+    },
+    {
+        "cursor": 3302137199,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305582618,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 345156391,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449849,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 850881741,
+            "sourceTypeId": 850881741,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 80
+        }
+    },
+    {
+        "cursor": 3302449901,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1749055646,
+            "typeId": 1939263245,
+            "sourceTypeId": 1939263245,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302449882,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 34,
+            "sourceTypeId": 16920816,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 3
+        }
+    },
+    {
+        "cursor": 3302045914,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 864889084
+        }
+    },
+    {
+        "cursor": 3302045907,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 886310780
+        }
+    },
+    {
+        "cursor": 3302449886,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 1939263245,
+            "sourceTypeId": 1939263245,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 7
+        }
+    },
+    {
+        "cursor": 3302420171,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305829520,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 2,
+            "character": 543520739,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 908088907,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302192083,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305627057,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 1,
+            "character": 1749055646,
+            "type": "MOUNT_DURATION",
+            "value": 15,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302433065,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305837372,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528"
+        }
+    },
+    {
+        "cursor": 3302303591,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305735417,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045891,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 949987667
+        }
+    },
+    {
+        "cursor": 3302120885,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305568700,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 908088907,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302384093,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305800367,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 2,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449803,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 543520739,
+            "typeId": 550064645,
+            "sourceTypeId": 550064645,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 14
+        }
+    },
+    {
+        "cursor": 3302045908,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 1391836164
+        }
+    },
+    {
+        "cursor": 3302449795,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 1333700447,
+            "sourceTypeId": 1389576316,
+            "scoreType": "CONTROL_DONE",
+            "value": 24
+        }
+    },
+    {
+        "cursor": 3302409356,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305823374,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 2,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 414600496,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449838,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 1044812542,
+            "sourceTypeId": 1044812542,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 60
+        }
+    },
+    {
+        "cursor": 3302217451,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305646026,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 1,
+            "character": 1377055301,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302128582,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305575862,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1257680118,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449854,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 65687534,
+            "typeId": 2046833332,
+            "sourceTypeId": 375275413,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 5
+        }
+    },
+    {
+        "cursor": 3302363348,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305781068,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192",
+            "round": 2,
+            "character": 65687534,
+            "type": "MOUNT_DURATION",
+            "value": 14,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302097594,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305550048,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "type": "ULTIMATE_USED",
+            "value": 1319449529,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045897,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1566601348
+        }
+    },
+    {
+        "cursor": 3301893253,
+        "type": "com.stunlock.service.matchmaking.avro.QueueEvent",
+        "dataObject": {
+            "time": 1524305360052,
+            "userId": "790070065960726528",
+            "teamId": "976067410253754368",
+            "sessionId": "279AA2A20AF0FCF7ADF357206BAFF0BF",
+            "season": 7,
+            "eventType": "MATCH",
+            "timeJoinedQueue": "23248628012650013",
+            "timeInQueue": 139.91345,
+            "character": 1749055646,
+            "characterArchetype": 2,
+            "queueTypes": [
+                "QUICK3V3RANKED"
+            ],
+            "limitMatchmakingRange": false,
+            "regionSamples": [
+                {
+                    "region": "us_southeast",
+                    "latencyMS": 16
+                },
+                {
+                    "region": "us_east",
+                    "latencyMS": 46
+                },
+                {
+                    "region": "us_southwest",
+                    "latencyMS": 87
+                }
+            ],
+            "preferredRegion": "us_southeast",
+            "rankingType": "RANKED",
+            "league": 1,
+            "division": 3,
+            "divisionRating": 44,
+            "teamSize": 3,
+            "teamMembers": [
+                "935059630755848192",
+                "799758378493677568"
+            ],
+            "placementGamesLeft": 0,
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "matchRegion": "us_southeast",
+            "teamSide": 1,
+            "autoMatchmaking": true
+        }
+    },
+    {
+        "cursor": 3301893257,
+        "type": "com.stunlock.service.matchmaking.avro.QueueEvent",
+        "dataObject": {
+            "time": 1524305360052,
+            "userId": "798367224359428096",
+            "teamId": "985750468997324800",
+            "sessionId": "211F96DD7CC9BA7C8AFE3C8327573E86",
+            "season": 7,
+            "eventType": "MATCH",
+            "timeJoinedQueue": "23248530922212854",
+            "timeInQueue": 237.00388,
+            "character": 1377055301,
+            "characterArchetype": 4,
+            "queueTypes": [
+                "QUICK3V3RANKED"
+            ],
+            "limitMatchmakingRange": false,
+            "regionSamples": [
+                {
+                    "region": "us_west",
+                    "latencyMS": 45
+                },
+                {
+                    "region": "us_east",
+                    "latencyMS": 67
+                },
+                {
+                    "region": "us_southeast",
+                    "latencyMS": 77
+                }
+            ],
+            "preferredRegion": "us_west",
+            "rankingType": "RANKED",
+            "league": 2,
+            "division": 3,
+            "divisionRating": 33,
+            "teamSize": 3,
+            "teamMembers": [
+                "933515605427027968",
+                "798326804736778240"
+            ],
+            "placementGamesLeft": 0,
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "matchRegion": "us_southeast",
+            "teamSide": 2,
+            "autoMatchmaking": true
+        }
+    },
+    {
+        "cursor": 3302449832,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 659588529,
+            "sourceTypeId": 659588529,
+            "scoreType": "USES",
+            "value": 25
+        }
+    },
+    {
+        "cursor": 3302045916,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 1420218818
+        }
+    },
+    {
+        "cursor": 3302449853,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 1044812542,
+            "sourceTypeId": 1044812542,
+            "scoreType": "HEALING_RECEIVED",
+            "value": 108
+        }
+    },
+    {
+        "cursor": 3302045904,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1179570873
+        }
+    },
+    {
+        "cursor": 3302361751,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305780967,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 2,
+            "character": 1377055301,
+            "type": "MOUNT_DURATION",
+            "value": 14,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449839,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 263936961,
+            "sourceTypeId": 1044812542,
+            "scoreType": "HEALING_RECEIVED",
+            "value": 16
+        }
+    },
+    {
+        "cursor": 3302111834,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305560242,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "type": "ULTIMATE_USED",
+            "value": 248314929,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302239967,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305674270,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 1,
+            "character": 1749055646,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449903,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1749055646,
+            "typeId": 659588529,
+            "sourceTypeId": 659588529,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 30
+        }
+    },
+    {
+        "cursor": 3302449945,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851058,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1455985392,
+            "typeId": 37,
+            "sourceTypeId": 1353508382,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 2
+        }
+    },
+    {
+        "cursor": 3302449892,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 1102830448,
+            "sourceTypeId": 1102830448,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449895,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 65687534,
+            "typeId": 308288579,
+            "sourceTypeId": 308288579,
+            "scoreType": "USES",
+            "value": 2
+        }
+    },
+    {
+        "cursor": 3302449880,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 1510393056,
+            "sourceTypeId": 0,
+            "scoreType": "HEALING_RECEIVED",
+            "value": 24
+        }
+    },
+    {
+        "cursor": 3302045894,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192",
+            "round": 0,
+            "character": 65687534,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 923624373
+        }
+    },
+    {
+        "cursor": 3302449806,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 543520739,
+            "typeId": 37,
+            "sourceTypeId": 550064645,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 2
+        }
+    },
+    {
+        "cursor": 3302449898,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1455985392,
+            "typeId": 1558748051,
+            "sourceTypeId": 716090704,
+            "scoreType": "HEALING_DONE",
+            "value": 29
+        }
+    },
+    {
+        "cursor": 3302449801,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 65687534,
+            "typeId": 1829872378,
+            "sourceTypeId": 1829872378,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449899,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1422481252,
+            "typeId": 1029450594,
+            "sourceTypeId": 1029450594,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 18
+        }
+    },
+    {
+        "cursor": 3302363349,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305781171,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 2,
+            "character": 1455985392,
+            "type": "MOUNT_DURATION",
+            "value": 14,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449818,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 543520739,
+            "typeId": 345156391,
+            "sourceTypeId": 345156391,
+            "scoreType": "CONTROL_DONE",
+            "value": 5
+        }
+    },
+    {
+        "cursor": 3302449850,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 56844512,
+            "sourceTypeId": 56844512,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 48
+        }
+    },
+    {
+        "cursor": 3302146706,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305588286,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568"
+        }
+    },
+    {
+        "cursor": 3302063866,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305522644,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "type": "MOUNT_DURATION",
+            "value": 19,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302085910,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305539849,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449910,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 65687534,
+            "typeId": 1939263245,
+            "sourceTypeId": 1939263245,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 40
+        }
+    },
+    {
+        "cursor": 3302449937,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1455985392,
+            "typeId": 1443478150,
+            "sourceTypeId": 461675303,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 18
+        }
+    },
+    {
+        "cursor": 3302196306,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305629107,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 1,
+            "character": 543520739,
+            "type": "MOUNT_DURATION",
+            "value": 23,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449796,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1422481252,
+            "typeId": 375275413,
+            "sourceTypeId": 375275413,
+            "scoreType": "USES",
+            "value": 10
+        }
+    },
+    {
+        "cursor": 3302216916,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305644729,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 1,
+            "character": 1377055301,
+            "type": "RUNE_LASTHIT",
+            "value": 941517599,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302435971,
+        "type": "Structures.RoundFinishedEvent",
+        "dataObject": {
+            "time": 1524305840028,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "round": 2,
+            "roundLength": 62,
+            "winningTeam": 2,
+            "playerStats": [
+                {
+                    "userID": "790070065960726528",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 479,
+                    "damageDone": 368,
+                    "damageReceived": 371,
+                    "healingDone": 49,
+                    "healingReceived": 124,
+                    "disablesDone": 62,
+                    "disablesReceived": 91,
+                    "energyGained": 100,
+                    "energyUsed": 0,
+                    "timeAlive": 61,
+                    "abilityUses": 39
+                },
+                {
+                    "userID": "935059630755848192",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 436,
+                    "damageDone": 354,
+                    "damageReceived": 287,
+                    "healingDone": 22,
+                    "healingReceived": 63,
+                    "disablesDone": 60,
+                    "disablesReceived": 39,
+                    "energyGained": 157,
+                    "energyUsed": 0,
+                    "timeAlive": 49,
+                    "abilityUses": 63
+                },
+                {
+                    "userID": "799758378493677568",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 373,
+                    "damageDone": 126,
+                    "damageReceived": 412,
+                    "healingDone": 220,
+                    "healingReceived": 124,
+                    "disablesDone": 27,
+                    "disablesReceived": 118,
+                    "energyGained": 112,
+                    "energyUsed": 100,
+                    "timeAlive": 59,
+                    "abilityUses": 39
+                },
+                {
+                    "userID": "933515605427027968",
+                    "kills": 0,
+                    "deaths": 0,
+                    "score": 644,
+                    "damageDone": 302,
+                    "damageReceived": 158,
+                    "healingDone": 243,
+                    "healingReceived": 52,
+                    "disablesDone": 99,
+                    "disablesReceived": 29,
+                    "energyGained": 163,
+                    "energyUsed": 50,
+                    "timeAlive": 62,
+                    "abilityUses": 44
+                },
+                {
+                    "userID": "798367224359428096",
+                    "kills": 1,
+                    "deaths": 0,
+                    "score": 582,
+                    "damageDone": 531,
+                    "damageReceived": 140,
+                    "healingDone": 0,
+                    "healingReceived": 96,
+                    "disablesDone": 51,
+                    "disablesReceived": 20,
+                    "energyGained": 260,
+                    "energyUsed": 150,
+                    "timeAlive": 62,
+                    "abilityUses": 105
+                },
+                {
+                    "userID": "798326804736778240",
+                    "kills": 2,
+                    "deaths": 0,
+                    "score": 441,
+                    "damageDone": 277,
+                    "damageReceived": 438,
+                    "healingDone": 66,
+                    "healingReceived": 163,
+                    "disablesDone": 98,
+                    "disablesReceived": 100,
+                    "energyGained": 183,
+                    "energyUsed": 75,
+                    "timeAlive": 62,
+                    "abilityUses": 50
+                }
+            ]
+        }
+    },
+    {
+        "cursor": 3302449893,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1749055646,
+            "typeId": 1837717987,
+            "sourceTypeId": 339248122,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 3
+        }
+    },
+    {
+        "cursor": 3302449911,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1749055646,
+            "typeId": 1755468971,
+            "sourceTypeId": 1755468971,
+            "scoreType": "USES",
+            "value": 2
+        }
+    },
+    {
+        "cursor": 3302218964,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305647939,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449941,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 204631701,
+            "sourceTypeId": 2594802,
+            "scoreType": "HEALING_DONE",
+            "value": 0
+        }
+    },
+    {
+        "cursor": 3302449869,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 716090704,
+            "sourceTypeId": 716090704,
+            "scoreType": "CONTROL_DONE",
+            "value": 3
+        }
+    },
+    {
+        "cursor": 3302449864,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1377055301,
+            "typeId": 2142173501,
+            "sourceTypeId": 2142173501,
+            "scoreType": "DAMAGE_DONE",
+            "value": 32
+        }
+    },
+    {
+        "cursor": 3302269436,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305705449,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302192630,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305628732,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 1,
+            "character": 1455985392,
+            "type": "MOUNT_DURATION",
+            "value": 16,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302063631,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305521554,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "type": "MOUNT_DURATION",
+            "value": 18,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302266625,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305701146,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 1,
+            "character": 1455985392,
+            "type": "ULTIMATE_USED",
+            "value": 248314929,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449821,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1749055646,
+            "typeId": 34,
+            "sourceTypeId": 690503554,
+            "scoreType": "CONTROL_DONE",
+            "value": 17
+        }
+    },
+    {
+        "cursor": 3302219553,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305648315,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449813,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1749055646,
+            "typeId": 1319449529,
+            "sourceTypeId": 1319449529,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449794,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 543520739,
+            "typeId": 1594360014,
+            "sourceTypeId": 1594360014,
+            "scoreType": "USES",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302449944,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851058,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 1090264556,
+            "sourceTypeId": 1090264556,
+            "scoreType": "DAMAGE_DONE",
+            "value": 12
+        }
+    },
+    {
+        "cursor": 3302043060,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305499859,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "type": "MOUNTS_AFTER_ELEVATOR",
+            "value": 1,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449808,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 37,
+            "sourceTypeId": 1665205519,
+            "scoreType": "CONTROL_DONE",
+            "value": 2
+        }
+    },
+    {
+        "cursor": 3302045895,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192",
+            "round": 0,
+            "character": 65687534,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 307332016
+        }
+    },
+    {
+        "cursor": 3302449948,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851058,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1455985392,
+            "typeId": 1546404495,
+            "sourceTypeId": 1546404495,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 10
+        }
+    },
+    {
+        "cursor": 3302045893,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192",
+            "round": 0,
+            "character": 65687534,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1545224575
+        }
+    },
+    {
+        "cursor": 3302449873,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 1546404495,
+            "sourceTypeId": 1546404495,
+            "scoreType": "CONTROL_DONE",
+            "value": 15
+        }
+    },
+    {
+        "cursor": 3302449896,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1422481252,
+            "typeId": 1829872378,
+            "sourceTypeId": 1829872378,
+            "scoreType": "USES",
+            "value": 4
+        }
+    },
+    {
+        "cursor": 3302227649,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305658117,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 1,
+            "character": 1377055301,
+            "type": "ULTIMATE_USED",
+            "value": 1627711587,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302093299,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305548239,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1383890402,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045898,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1205288941
+        }
+    },
+    {
+        "cursor": 3302239185,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305673005,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 1,
+            "character": 1749055646,
+            "type": "RUNE_LASTHIT",
+            "value": 2102786788,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449859,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 1755468971,
+            "sourceTypeId": 1755468971,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 20
+        }
+    },
+    {
+        "cursor": 3302269946,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305706268,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302363350,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305781785,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 2,
+            "character": 1422481252,
+            "type": "MOUNT_DURATION",
+            "value": 15,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449804,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1422481252,
+            "typeId": 1353508382,
+            "sourceTypeId": 1353508382,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 20
+        }
+    },
+    {
+        "cursor": 3302449887,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1377055301,
+            "typeId": 1090264556,
+            "sourceTypeId": 1090264556,
+            "scoreType": "DAMAGE_DONE",
+            "value": 256
+        }
+    },
+    {
+        "cursor": 3302117112,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305566075,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449863,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 34,
+            "sourceTypeId": 690503554,
+            "scoreType": "CONTROL_DONE",
+            "value": 29
+        }
+    },
+    {
+        "cursor": 3302225793,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305655451,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 414600496,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302128826,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305576716,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 414600496,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449822,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 233029331,
+            "sourceTypeId": 1007578494,
+            "scoreType": "HEALING_DONE",
+            "value": 28
+        }
+    },
+    {
+        "cursor": 3302449820,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1422481252,
+            "typeId": 34,
+            "sourceTypeId": 1546404495,
+            "scoreType": "CONTROL_DONE",
+            "value": 5
+        }
+    },
+    {
+        "cursor": 3302097593,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305549604,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "type": "ULTIMATE_USED",
+            "value": 1627711587,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449800,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 543520739,
+            "typeId": 565246006,
+            "sourceTypeId": 565246006,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 27
+        }
+    },
+    {
+        "cursor": 3302449828,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 1028311787,
+            "sourceTypeId": 1028311787,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449825,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 65687534,
+            "typeId": 1090264556,
+            "sourceTypeId": 1090264556,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 52
+        }
+    },
+    {
+        "cursor": 3302449897,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1377055301,
+            "typeId": 181252060,
+            "sourceTypeId": 181252060,
+            "scoreType": "USES",
+            "value": 4
+        }
+    },
+    {
+        "cursor": 3302082050,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305538484,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192"
+        }
+    },
+    {
+        "cursor": 3302449865,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 65687534,
+            "typeId": 37,
+            "sourceTypeId": 1939263245,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302449891,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1377055301,
+            "typeId": 339248122,
+            "sourceTypeId": 339248122,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 16
+        }
+    },
+    {
+        "cursor": 3302386921,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305801766,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 2,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1383890402,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449874,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 65687534,
+            "typeId": 1014869658,
+            "sourceTypeId": 1014869658,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302088983,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305544385,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302266935,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305701249,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 414600496,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045902,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 164976104
+        }
+    },
+    {
+        "cursor": 3302384092,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305800333,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 2,
+            "character": 1749055646,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302391097,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305807161,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 2,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 414600496,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449856,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 1829872378,
+            "sourceTypeId": 1829872378,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 24
+        }
+    },
+    {
+        "cursor": 3302290144,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305723850,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568"
+        }
+    },
+    {
+        "cursor": 3302045900,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 230638228
+        }
+    },
+    {
+        "cursor": 3302305360,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305737193,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 1,
+            "character": 1749055646,
+            "type": "ULTIMATE_USED",
+            "value": 1319449529,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302061955,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305518931,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "type": "MOUNT_DURATION",
+            "value": 15,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045896,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192",
+            "round": 0,
+            "character": 65687534,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 171345218
+        }
+    },
+    {
+        "cursor": 3302449876,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 1007578494,
+            "sourceTypeId": 1007578494,
+            "scoreType": "CONTROL_DONE",
+            "value": 4
+        }
+    },
+    {
+        "cursor": 3302449858,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 1837717987,
+            "sourceTypeId": 1632681037,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 8
+        }
+    },
+    {
+        "cursor": 3302300402,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305732686,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ENERGY_SHARD_PICKUP",
+            "value": 8,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449824,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 37,
+            "sourceTypeId": 1939263245,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 3
+        }
+    },
+    {
+        "cursor": 3302449883,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 1546404495,
+            "sourceTypeId": 1546404495,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 7
+        }
+    },
+    {
+        "cursor": 3302449790,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 850881741,
+            "sourceTypeId": 850881741,
+            "scoreType": "DAMAGE_DONE",
+            "value": 100
+        }
+    },
+    {
+        "cursor": 3302414601,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305827471,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 2,
+            "character": 1377055301,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1257680118,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045911,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 1251073547
+        }
+    },
+    {
+        "cursor": 3302301832,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305733163,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ENERGY_SHARD_PICKUP",
+            "value": 8,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3301893255,
+        "type": "com.stunlock.service.matchmaking.avro.QueueEvent",
+        "dataObject": {
+            "time": 1524305360052,
+            "userId": "799758378493677568",
+            "teamId": "976067410253754368",
+            "sessionId": "C457ACE752C2F9C56E76F2542F4A391F",
+            "season": 7,
+            "eventType": "MATCH",
+            "timeJoinedQueue": "23248628012650013",
+            "timeInQueue": 139.91345,
+            "character": 543520739,
+            "characterArchetype": 8,
+            "queueTypes": [
+                "QUICK3V3RANKED"
+            ],
+            "limitMatchmakingRange": false,
+            "regionSamples": [
+                {
+                    "region": "us_southeast",
+                    "latencyMS": 16
+                },
+                {
+                    "region": "us_east",
+                    "latencyMS": 46
+                },
+                {
+                    "region": "us_southwest",
+                    "latencyMS": 87
+                }
+            ],
+            "preferredRegion": "us_southeast",
+            "rankingType": "RANKED",
+            "league": 1,
+            "division": 3,
+            "divisionRating": 44,
+            "teamSize": 3,
+            "teamMembers": [
+                "790070065960726528",
+                "935059630755848192"
+            ],
+            "placementGamesLeft": 0,
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "matchRegion": "us_southeast",
+            "teamSide": 1,
+            "autoMatchmaking": true
+        }
+    },
+    {
+        "cursor": 3302045887,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 2072828814
+        }
+    },
+    {
+        "cursor": 3302525989,
+        "type": "Structures.ServerShutdown",
+        "dataObject": {
+            "time": 1524305913334,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "matchTime": 448,
+            "reason": "EMPTY_SERVER"
+        }
+    },
+    {
+        "cursor": 3302045915,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 1132855849
+        }
+    },
+    {
+        "cursor": 3301893310,
+        "type": "Structures.MatchReservedUser",
+        "dataObject": {
+            "time": 1524305360465,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "serverType": "QUICK3V3",
+            "characterLevel": 16,
+            "teamId": "976067410253754368",
+            "totalTimePlayed": 240379,
+            "characterTimePlayed": 50429,
+            "character": 1749055646,
+            "team": 1,
+            "rankingType": "RANKED",
+            "mount": 791347970,
+            "attachment": 915045706,
+            "outfit": 1850295473,
+            "emote": 1074547109,
+            "league": 1,
+            "division": 3,
+            "divisionRating": 44,
+            "seasonId": 7
+        }
+    },
+    {
+        "cursor": 3302089874,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305544862,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302379155,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305795930,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 2,
+            "character": 1377055301,
+            "type": "RUNE_LASTHIT",
+            "value": 941517599,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449879,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1377055301,
+            "typeId": 1850974740,
+            "sourceTypeId": 1850974740,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 12
+        }
+    },
+    {
+        "cursor": 3302450228,
+        "type": "com.stunlock.battlerite.team.TeamUpdateEvent",
+        "dataObject": {
+            "time": 1524305851493,
+            "season": 7,
+            "teamID": "985750468997324800",
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userIDs": [
+                "798326804736778240",
+                "933515605427027968",
+                "798367224359428096"
+            ],
+            "mode": "RANKED",
+            "prevLeague": 2,
+            "league": 2,
+            "prevDivision": 3,
+            "division": 3,
+            "prevDivisionRating": 33,
+            "divisionRating": 49,
+            "prevWins": 29,
+            "wins": 30,
+            "prevLosses": 21,
+            "losses": 21,
+            "roundsWon": 3,
+            "roundsLost": 0,
+            "teamSize": 3,
+            "rankingChangeType": "Default",
+            "prevPlacementGamesLeft": 0,
+            "placementGamesLeft": 0,
+            "matchRegion": "na"
+        }
+    },
+    {
+        "cursor": 3302271492,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305708217,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 1,
+            "character": 543520739,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 345156391,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302237527,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305668087,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096"
+        }
+    },
+    {
+        "cursor": 3302045912,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 525547855
+        }
+    },
+    {
+        "cursor": 3302449819,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 345156391,
+            "sourceTypeId": 345156391,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 5
+        }
+    },
+    {
+        "cursor": 3302045899,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 2018979014
+        }
+    },
+    {
+        "cursor": 3302449830,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 1939263245,
+            "sourceTypeId": 1939263245,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 8
+        }
+    },
+    {
+        "cursor": 3302449938,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 263936961,
+            "sourceTypeId": 1044812542,
+            "scoreType": "HEALING_RECEIVED",
+            "value": 4
+        }
+    },
+    {
+        "cursor": 3302096511,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305548715,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "type": "ULTIMATE_USED",
+            "value": 248314929,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302383845,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305799274,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 2,
+            "character": 1455985392,
+            "type": "ENERGY_SHARD_PICKUP",
+            "value": 8,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3301893311,
+        "type": "Structures.MatchReservedUser",
+        "dataObject": {
+            "time": 1524305360465,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "serverType": "QUICK3V3",
+            "characterLevel": 16,
+            "teamId": "976067410253754368",
+            "totalTimePlayed": 72038,
+            "characterTimePlayed": 64314,
+            "character": 65687534,
+            "team": 1,
+            "rankingType": "RANKED",
+            "mount": 791347970,
+            "attachment": 31028573,
+            "outfit": 315349145,
+            "emote": 1505065066,
+            "league": 1,
+            "division": 3,
+            "divisionRating": 44,
+            "seasonId": 7
+        }
+    },
+    {
+        "cursor": 3302449817,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1377055301,
+            "typeId": 716090704,
+            "sourceTypeId": 716090704,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 2
+        }
+    },
+    {
+        "cursor": 3302062818,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305520294,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "type": "MOUNT_DURATION",
+            "value": 16,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302086269,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305540327,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "type": "RUNE_LASTHIT",
+            "value": 149552258,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302450110,
+        "type": "Structures.MatchFinishedEvent",
+        "dataObject": {
+            "time": 1524305851051,
+            "teamOneScore": 0,
+            "teamTwoScore": 3,
+            "matchLength": 386,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "leavers": [],
+            "region": "us_southeast"
+        }
+    },
+    {
+        "cursor": 3302204883,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305636403,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 1,
+            "character": 1377055301,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1257680118,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302258479,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305695929,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 1,
+            "character": 543520739,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 908088907,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449810,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1749055646,
+            "typeId": 1900368609,
+            "sourceTypeId": 1900368609,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 11
+        }
+    },
+    {
+        "cursor": 3302386516,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305800845,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 2,
+            "character": 1422481252,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302257014,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305693339,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ENERGY_SHARD_PICKUP",
+            "value": 8,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449814,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 543520739,
+            "typeId": 2014529482,
+            "sourceTypeId": 2014529482,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 20
+        }
+    },
+    {
+        "cursor": 3302449900,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 1414049618,
+            "sourceTypeId": 1414049618,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 30
+        }
+    },
+    {
+        "cursor": 3302311404,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305742485,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528"
+        }
+    },
+    {
+        "cursor": 3302045901,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 0,
+            "character": 1455985392,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1304478623
+        }
+    },
+    {
+        "cursor": 3302449805,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1749055646,
+            "typeId": 1353508382,
+            "sourceTypeId": 1353508382,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302449877,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 1007578494,
+            "sourceTypeId": 1007578494,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 4
+        }
+    },
+    {
+        "cursor": 3302449939,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 65687534,
+            "typeId": 1829872378,
+            "sourceTypeId": 1829872378,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302449946,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851058,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 345156391,
+            "sourceTypeId": 345156391,
+            "scoreType": "CONTROL_DONE",
+            "value": 9
+        }
+    },
+    {
+        "cursor": 3302449943,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1455985392,
+            "typeId": 314427992,
+            "sourceTypeId": 314427992,
+            "scoreType": "DAMAGE_DONE",
+            "value": 10
+        }
+    },
+    {
+        "cursor": 3302367001,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305784410,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 2,
+            "character": 1749055646,
+            "type": "MOUNT_DURATION",
+            "value": 18,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302429174,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305835015,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568"
+        }
+    },
+    {
+        "cursor": 3302243572,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305676728,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 1,
+            "character": 1455985392,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302217130,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305645582,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 1,
+            "character": 1377055301,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3301893315,
+        "type": "Structures.MatchReservedUser",
+        "dataObject": {
+            "time": 1524305360466,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "serverType": "QUICK3V3",
+            "characterLevel": 14,
+            "teamId": "985750468997324800",
+            "totalTimePlayed": 800780,
+            "characterTimePlayed": 53456,
+            "character": 1422481252,
+            "team": 2,
+            "rankingType": "RANKED",
+            "mount": 1389972632,
+            "attachment": 1339352307,
+            "outfit": 1509634112,
+            "emote": 1402084767,
+            "league": 2,
+            "division": 3,
+            "divisionRating": 33,
+            "seasonId": 7
+        }
+    },
+    {
+        "cursor": 3302410966,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305823683,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192"
+        }
+    },
+    {
+        "cursor": 3302449871,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 2046833332,
+            "sourceTypeId": 1900368609,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 3
+        }
+    },
+    {
+        "cursor": 3302449792,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1749055646,
+            "typeId": 1028311787,
+            "sourceTypeId": 1028311787,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449793,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 543520739,
+            "typeId": 1028311787,
+            "sourceTypeId": 1028311787,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302424627,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305833205,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 2,
+            "character": 543520739,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 345156391,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449860,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 690503554,
+            "sourceTypeId": 690503554,
+            "scoreType": "USES",
+            "value": 5
+        }
+    },
+    {
+        "cursor": 3302365986,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305782432,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 2,
+            "character": 543520739,
+            "type": "MOUNT_DURATION",
+            "value": 16,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302217452,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305646982,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1283963825,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3301893254,
+        "type": "com.stunlock.service.matchmaking.avro.QueueEvent",
+        "dataObject": {
+            "time": 1524305360052,
+            "userId": "935059630755848192",
+            "teamId": "976067410253754368",
+            "sessionId": "92ECD9A999AEAEC432C9942B266FB1FA",
+            "season": 7,
+            "eventType": "MATCH",
+            "timeJoinedQueue": "23248628012650013",
+            "timeInQueue": 139.91345,
+            "character": 65687534,
+            "characterArchetype": 4,
+            "queueTypes": [
+                "QUICK3V3RANKED"
+            ],
+            "limitMatchmakingRange": false,
+            "regionSamples": [
+                {
+                    "region": "us_southeast",
+                    "latencyMS": 16
+                },
+                {
+                    "region": "us_east",
+                    "latencyMS": 46
+                },
+                {
+                    "region": "us_southwest",
+                    "latencyMS": 87
+                }
+            ],
+            "preferredRegion": "us_southeast",
+            "rankingType": "RANKED",
+            "league": 1,
+            "division": 3,
+            "divisionRating": 44,
+            "teamSize": 3,
+            "teamMembers": [
+                "790070065960726528",
+                "799758378493677568"
+            ],
+            "placementGamesLeft": 0,
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "matchRegion": "us_southeast",
+            "teamSide": 1,
+            "autoMatchmaking": true
+        }
+    },
+    {
+        "cursor": 3302449826,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 375275413,
+            "sourceTypeId": 375275413,
+            "scoreType": "USES",
+            "value": 16
+        }
+    },
+    {
+        "cursor": 3302127685,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305575284,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302192082,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305626853,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 1,
+            "character": 1377055301,
+            "type": "MOUNT_DURATION",
+            "value": 14,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302267997,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305703365,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 1,
+            "character": 1749055646,
+            "type": "RUNE_LASTHIT",
+            "value": 2102786788,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302072562,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305530565,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 908088907,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302063864,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305521655,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192",
+            "round": 0,
+            "character": 65687534,
+            "type": "MOUNT_DURATION",
+            "value": 18,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449894,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1377055301,
+            "typeId": 339248122,
+            "sourceTypeId": 339248122,
+            "scoreType": "CONTROL_DONE",
+            "value": 7
+        }
+    },
+    {
+        "cursor": 3302449862,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 1956698054,
+            "sourceTypeId": 690503554,
+            "scoreType": "DAMAGE_DONE",
+            "value": 50
+        }
+    },
+    {
+        "cursor": 3302255649,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305688571,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 1,
+            "character": 1455985392,
+            "type": "ENERGY_SHARD_PICKUP",
+            "value": 8,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449837,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 65687534,
+            "typeId": 1414514524,
+            "sourceTypeId": 1414514524,
+            "scoreType": "USES",
+            "value": 29
+        }
+    },
+    {
+        "cursor": 3302449890,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1422481252,
+            "typeId": 1837717987,
+            "sourceTypeId": 1632681037,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 8
+        }
+    },
+    {
+        "cursor": 3302449807,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1422481252,
+            "typeId": 716090704,
+            "sourceTypeId": 716090704,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 12
+        }
+    },
+    {
+        "cursor": 3302306858,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305738149,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1383890402,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3301893298,
+        "type": "Structures.MatchStart",
+        "dataObject": {
+            "time": 1524305360465,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "version": "45166",
+            "type": "QUICK3V3",
+            "gameMode": 1733162751,
+            "mapID": "FFFFE4774561141D49B46892B5CBACFA",
+            "teamSize": 3,
+            "region": "us_southeast"
+        }
+    },
+    {
+        "cursor": 3302412247,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305823715,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 2,
+            "character": 1455985392,
+            "type": "ULTIMATE_USED",
+            "value": 248314929,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302150459,
+        "type": "Structures.RoundFinishedEvent",
+        "dataObject": {
+            "time": 1524305590949,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "round": 0,
+            "roundLength": 74,
+            "winningTeam": 2,
+            "playerStats": [
+                {
+                    "userID": "790070065960726528",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 625,
+                    "damageDone": 496,
+                    "damageReceived": 446,
+                    "healingDone": 90,
+                    "healingReceived": 186,
+                    "disablesDone": 39,
+                    "disablesReceived": 107,
+                    "energyGained": 247,
+                    "energyUsed": 100,
+                    "timeAlive": 72,
+                    "abilityUses": 70
+                },
+                {
+                    "userID": "935059630755848192",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 217,
+                    "damageDone": 176,
+                    "damageReceived": 214,
+                    "healingDone": 6,
+                    "healingReceived": 6,
+                    "disablesDone": 35,
+                    "disablesReceived": 28,
+                    "energyGained": 95,
+                    "energyUsed": 0,
+                    "timeAlive": 25,
+                    "abilityUses": 33
+                },
+                {
+                    "userID": "799758378493677568",
+                    "kills": 0,
+                    "deaths": 1,
+                    "score": 702,
+                    "damageDone": 423,
+                    "damageReceived": 458,
+                    "healingDone": 189,
+                    "healingReceived": 121,
+                    "disablesDone": 90,
+                    "disablesReceived": 134,
+                    "energyGained": 394,
+                    "energyUsed": 225,
+                    "timeAlive": 73,
+                    "abilityUses": 97
+                },
+                {
+                    "userID": "933515605427027968",
+                    "kills": 0,
+                    "deaths": 0,
+                    "score": 688,
+                    "damageDone": 207,
+                    "damageReceived": 168,
+                    "healingDone": 377,
+                    "healingReceived": 88,
+                    "disablesDone": 104,
+                    "disablesReceived": 16,
+                    "energyGained": 140,
+                    "energyUsed": 100,
+                    "timeAlive": 74,
+                    "abilityUses": 63
+                },
+                {
+                    "userID": "798367224359428096",
+                    "kills": 2,
+                    "deaths": 0,
+                    "score": 674,
+                    "damageDone": 588,
+                    "damageReceived": 170,
+                    "healingDone": 6,
+                    "healingReceived": 70,
+                    "disablesDone": 80,
+                    "disablesReceived": 52,
+                    "energyGained": 337,
+                    "energyUsed": 225,
+                    "timeAlive": 74,
+                    "abilityUses": 136
+                },
+                {
+                    "userID": "798326804736778240",
+                    "kills": 1,
+                    "deaths": 0,
+                    "score": 587,
+                    "damageDone": 361,
+                    "damageReceived": 550,
+                    "healingDone": 141,
+                    "healingReceived": 239,
+                    "disablesDone": 85,
+                    "disablesReceived": 96,
+                    "energyGained": 173,
+                    "energyUsed": 100,
+                    "timeAlive": 74,
+                    "abilityUses": 60
+                }
+            ]
+        }
+    },
+    {
+        "cursor": 3302449811,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1422481252,
+            "typeId": 1383890402,
+            "sourceTypeId": 1383890402,
+            "scoreType": "USES",
+            "value": 1
+        }
+    },
+    {
+        "cursor": 3302449809,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1455985392,
+            "typeId": 34,
+            "sourceTypeId": 1414049618,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 18
+        }
+    },
+    {
+        "cursor": 3302045905,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "933515605427027968",
+            "round": 0,
+            "character": 543520739,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 1442859791
+        }
+    },
+    {
+        "cursor": 3302450223,
+        "type": "com.stunlock.battlerite.team.TeamUpdateEvent",
+        "dataObject": {
+            "time": 1524305851493,
+            "season": 7,
+            "teamID": "976067410253754368",
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userIDs": [
+                "790070065960726528",
+                "799758378493677568",
+                "935059630755848192"
+            ],
+            "mode": "RANKED",
+            "prevLeague": 1,
+            "league": 1,
+            "prevDivision": 3,
+            "division": 3,
+            "prevDivisionRating": 44,
+            "divisionRating": 29,
+            "prevWins": 13,
+            "wins": 13,
+            "prevLosses": 6,
+            "losses": 7,
+            "roundsWon": 0,
+            "roundsLost": 3,
+            "teamSize": 3,
+            "rankingChangeType": "Default",
+            "prevPlacementGamesLeft": 0,
+            "placementGamesLeft": 0,
+            "matchRegion": "na"
+        }
+    },
+    {
+        "cursor": 3302449815,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1422481252,
+            "typeId": 482665525,
+            "sourceTypeId": 482665525,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 10
+        }
+    },
+    {
+        "cursor": 3302449851,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 716090704,
+            "sourceTypeId": 716090704,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 23
+        }
+    },
+    {
+        "cursor": 3302192084,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305627537,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "935059630755848192",
+            "round": 1,
+            "character": 65687534,
+            "type": "MOUNT_DURATION",
+            "value": 15,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302045910,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 392734428
+        }
+    },
+    {
+        "cursor": 3302242656,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305675468,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 1,
+            "character": 1422481252,
+            "type": "ALLY_DEATH_ENERGY_PICKUP",
+            "value": 50,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302122057,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305569141,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "type": "ENERGY_ABILITY_USED",
+            "value": 1283963825,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449866,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "790070065960726528",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1749055646,
+            "typeId": 565246006,
+            "sourceTypeId": 565246006,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 42
+        }
+    },
+    {
+        "cursor": 3302449940,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1455985392,
+            "typeId": 1510393056,
+            "sourceTypeId": 0,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 16
+        }
+    },
+    {
+        "cursor": 3302449875,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1455985392,
+            "typeId": 233029331,
+            "sourceTypeId": 1007578494,
+            "scoreType": "HEALING_DONE",
+            "value": 18
+        }
+    },
+    {
+        "cursor": 3302449840,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 65687534,
+            "typeId": 1414514524,
+            "sourceTypeId": 1414514524,
+            "scoreType": "ENERGY_RECEIVED",
+            "value": 39
+        }
+    },
+    {
+        "cursor": 3302449852,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 65687534,
+            "typeId": 716090704,
+            "sourceTypeId": 716090704,
+            "scoreType": "HEALING_RECEIVED",
+            "value": 14
+        }
+    },
+    {
+        "cursor": 3302045888,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528",
+            "round": 0,
+            "character": 1749055646,
+            "serverType": "QUICK3V3",
+            "loadoutType": "HOMEMADE",
+            "battleriteType": 674446208
+        }
+    },
+    {
+        "cursor": 3302449799,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851052,
+            "accountId": "935059630755848192",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 65687534,
+            "typeId": 56844512,
+            "sourceTypeId": 56844512,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302449905,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1422481252,
+            "typeId": 1383890402,
+            "sourceTypeId": 1383890402,
+            "scoreType": "DAMAGE_DONE",
+            "value": 8
+        }
+    },
+    {
+        "cursor": 3302449949,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851058,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 543520739,
+            "typeId": 2039596325,
+            "sourceTypeId": 2039596325,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 7
+        }
+    },
+    {
+        "cursor": 3301893312,
+        "type": "Structures.MatchReservedUser",
+        "dataObject": {
+            "time": 1524305360465,
+            "accountId": "799758378493677568",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "serverType": "QUICK3V3",
+            "characterLevel": 3,
+            "teamId": "976067410253754368",
+            "totalTimePlayed": 175500,
+            "characterTimePlayed": 1331,
+            "character": 543520739,
+            "team": 1,
+            "rankingType": "RANKED",
+            "mount": 791347970,
+            "attachment": 408773361,
+            "outfit": 2013363222,
+            "emote": 24722838,
+            "league": 1,
+            "division": 3,
+            "divisionRating": 44,
+            "seasonId": 7
+        }
+    },
+    {
+        "cursor": 3302045909,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 1075244276
+        }
+    },
+    {
+        "cursor": 3302045913,
+        "type": "Structures.BattleritePickEvent",
+        "dataObject": {
+            "time": 1524305503335,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798326804736778240",
+            "round": 0,
+            "character": 1422481252,
+            "serverType": "QUICK3V3",
+            "loadoutType": "MODIFIED_HOMEMADE",
+            "battleriteType": 1988118460
+        }
+    },
+    {
+        "cursor": 3302449816,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851053,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 0,
+            "character": 1377055301,
+            "typeId": 1092904491,
+            "sourceTypeId": 248314929,
+            "scoreType": "CONTROL_RECEIVED",
+            "value": 18
+        }
+    },
+    {
+        "cursor": 3302449942,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "798367224359428096",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1377055301,
+            "typeId": 1257101524,
+            "sourceTypeId": 1755468971,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 6
+        }
+    },
+    {
+        "cursor": 3302242657,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305676321,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "799758378493677568",
+            "round": 1,
+            "character": 1455985392,
+            "type": "HEALTH_SHARD_PICKUP",
+            "value": 12,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302449867,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 6683886,
+            "sourceTypeId": 6683886,
+            "scoreType": "DAMAGE_DONE",
+            "value": 60
+        }
+    },
+    {
+        "cursor": 3302140156,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305584599,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 0,
+            "character": 1377055301,
+            "type": "ULTIMATE_USED",
+            "value": 1627711587,
+            "timeIntoRound": 0
+        }
+    },
+    {
+        "cursor": 3302145969,
+        "type": "Structures.DeathEvent",
+        "dataObject": {
+            "time": 1524305586820,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "790070065960726528"
+        }
+    },
+    {
+        "cursor": 3302449829,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851054,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 1939263245,
+            "sourceTypeId": 1939263245,
+            "scoreType": "CONTROL_DONE",
+            "value": 19
+        }
+    },
+    {
+        "cursor": 3302449885,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851056,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 1422481252,
+            "typeId": 550064645,
+            "sourceTypeId": 550064645,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 14
+        }
+    },
+    {
+        "cursor": 3302449878,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851055,
+            "accountId": "933515605427027968",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 1,
+            "character": 543520739,
+            "typeId": 1956698054,
+            "sourceTypeId": 690503554,
+            "scoreType": "DAMAGE_RECEIVED",
+            "value": 20
+        }
+    },
+    {
+        "cursor": 3302449908,
+        "type": "Structures.UserRoundSpell",
+        "dataObject": {
+            "time": 1524305851057,
+            "accountId": "798326804736778240",
+            "matchId": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "round": 2,
+            "character": 1422481252,
+            "typeId": 1829872378,
+            "sourceTypeId": 1829872378,
+            "scoreType": "DAMAGE_DONE",
+            "value": 18
+        }
+    },
+    {
+        "cursor": 3302402135,
+        "type": "Structures.RoundEvent",
+        "dataObject": {
+            "time": 1524305815727,
+            "matchID": "4810AA4CC2C34FDCBA34C7E8915EAFD4",
+            "externalMatchID": "",
+            "userID": "798367224359428096",
+            "round": 2,
+            "character": 1377055301,
+            "type": "ULTIMATE_USED",
+            "value": 1627711587,
+            "timeIntoRound": 0
+        }
+    }
+]
