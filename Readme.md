@@ -3,6 +3,9 @@
 An asynchronous API wrapper for the official [Battlerite Api](http://battlerite-docs.readthedocs.io/en/master/introduction.html).
 
 `PM> Install-Package Battlerite.Net -Version 1.0.0`
+
+or
+
 `dotnet add package Battlerite.Net --version 1.0.0`
 
 ## Usage
@@ -36,8 +39,10 @@ var match = result.Match;
 
 The same can be done by player names.
 
-`var result = await br.GetMatchByPlayerAsync(playerName);`
-`var result = await br.GetMatchesByPlayerAsync(nameEnumerable);`
+```c#
+var result = await br.GetMatchByPlayerAsync(playerName);
+var result = await br.GetMatchesByPlayerAsync(nameEnumerable);
+```
 
 ### Players
 
@@ -59,8 +64,11 @@ var match = result.Match;
 You can also get a collection of players or single player by steamid or player name.
 
 `var result = await br.GetPlayerByNameAsync(playerName);`
+
 `var result = await br.GetPlayersByNameAsync(nameEnumerable);`
+
 `var result = await br.GetPlayerBySteamIdAsync(steamId);`
+
 `var result = await br.GetPlayersBySteamIdAsync(steamIdEnumerable);`
 
 ### Using Requests
