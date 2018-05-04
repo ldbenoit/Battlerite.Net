@@ -11,7 +11,7 @@ namespace Rocket.Battlerite.Converters
         public override bool CanRead => true;
         public override bool CanConvert(Type objectType)
         {
-            return objectType == typeof(MatchData);
+            return objectType == typeof(PlayerData);
         }
 
         public override void WriteJson(JsonWriter writer,
@@ -26,9 +26,9 @@ namespace Rocket.Battlerite.Converters
         {
             var jsonObject = JToken.Load(reader);
             if (jsonObject.Type == JTokenType.Array)
-                return serializer.Deserialize<List<MatchData>>(jsonObject.CreateReader());
-            var a = serializer.Deserialize<MatchData>(jsonObject.CreateReader());
-            return new List<MatchData>{a};
+                return serializer.Deserialize<List<PlayerData>>(jsonObject.CreateReader());
+            var a = serializer.Deserialize<PlayerData>(jsonObject.CreateReader());
+            return new List<PlayerData>{a};
         }
     }
 }
