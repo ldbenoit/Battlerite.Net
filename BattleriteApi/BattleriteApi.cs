@@ -133,7 +133,6 @@ namespace Rocket.Battlerite
         private async Task<T> CallApiAsync<T>(string url)
             where T : IResponse , new()
         {
-            Console.WriteLine(url);
             var request = new HttpRequestMessage();
             request.Method = HttpMethod.Get;
 
