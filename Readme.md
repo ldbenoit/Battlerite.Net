@@ -9,7 +9,7 @@ Install latest release from NuGet or download latest version and run from github
 - [Battlerite.Net](https://www.nuget.org/packages/Battlerite.Net/)
 - [Github](https://github.com/ldbenoit/Battlerite.Net)
 
-`dotnet add package Battlerite.Net --version 1.0.0`
+`dotnet add package Battlerite.Net`
 
 ## Usage
 
