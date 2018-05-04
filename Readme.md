@@ -2,8 +2,8 @@
 
 An asynchronous API C# wrapper for the official [Battlerite Api](http://battlerite-docs.readthedocs.io/en/master/introduction.html).
 
-`PM> Install-Package Battlerite.Net -Version 1.0.0 `
-`dotnet add package Battlerite.Net --version 1.0.0 `
+`PM> Install-Package Battlerite.Net -Version 1.0.0`
+`dotnet add package Battlerite.Net --version 1.0.0`
 
 ## Usage
 
@@ -114,8 +114,7 @@ var result = await br.GetMatchAsync("matchId", details);
 
 ## Authors
 
-* **Levi Benoit** - *Initial work* - [ldbenoit](https://github.com/ldbenoit)
-
+***Levi Benoit** - *Initial work* - [ldbenoit](https://github.com/ldbenoit)
 
 ### Notes
 
