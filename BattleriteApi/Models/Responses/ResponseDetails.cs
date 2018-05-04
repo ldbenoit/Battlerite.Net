@@ -33,7 +33,7 @@ namespace Rocket.Battlerite
 
         public ResponseDetails WithAll(bool value = true)
         {
-            IncludeChampions = value;
+            IncludePlayers = value;
             IncludeTeams = value;
             IncludeChampions = value;
             IncludeTelemetry = value;
