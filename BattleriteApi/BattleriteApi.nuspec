@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Battlerite.Net</id>
+    <version>1.0.1</version>
+    <authors>ldbenoit</authors>
+    <owners>ldbenoit</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An asynchronous API wrapper for the official Battlerite Api.</description>
+    <summary>An asynchronous API wrapper for the official Battlerite Api.</summary>
+    <projectUrl>https://github.com/ldbenoit/Battlerite.Net</projectUrl>
+    <licenseUrl>https://github.com/ldbenoit/Battlerite.Net/blob/master/LICENSE</licenseUrl>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Z:\dev\cs\rocket\battleriteapi\battleriteapi\bin\Release\netstandard2.0\BattleriteApi.dll" target="lib\netstandard2.0\BattleriteApi.dll" />
+  </files>
+</package>
