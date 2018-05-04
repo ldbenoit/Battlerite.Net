@@ -1,8 +1,9 @@
 # Battlerite.net
 
-Battlerite.net is a c# wrapper for the official [Battlerite Api](http://battlerite-docs.readthedocs.io/en/master/introduction.html).
+An asynchronous API C# wrapper for the official [Battlerite Api](http://battlerite-docs.readthedocs.io/en/master/introduction.html).
 
-`dotnet install Battlerite.Net`
+`PM> Install-Package Battlerite.Net -Version 1.0.0 `
+`dotnet add package Battlerite.Net --version 1.0.0 `
 
 ## Usage
 
