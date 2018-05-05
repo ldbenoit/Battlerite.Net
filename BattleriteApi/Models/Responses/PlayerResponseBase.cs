@@ -10,23 +10,17 @@ using Rocket.Battlerite.Converters;
 
 namespace Rocket.Battlerite
 {
-    public partial class PlayerResponseBase : IResponse
+    public partial class PlayerResponseBase : DataResponse<PlayerData>, IResponse
     {
         [JsonProperty("data")]
         [JsonConverter(typeof(PlayerDataConverter))]
-        public IList<PlayerData> Data { get; set; }
-        
-        [JsonProperty("errors")]
-        public List<Error> Errors { get; set; }
+        public override IList<PlayerData> Data { get; set; }
 
         [JsonProperty("links")]
         public ResponseLink Links { get; set; }
 
         [JsonProperty("meta")]
         public Meta Meta { get; set; }
-
-        [JsonIgnore]
-        public bool IsSuccess { get; set; }
         
         [OnDeserialized]
         internal void OnDeserialized(StreamingContext context)

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 
 using System.Globalization;
+using System.Runtime.Serialization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 namespace Rocket.Battlerite
@@ -16,6 +17,15 @@ namespace Rocket.Battlerite
         
         [JsonIgnore]
         public bool IsSuccess { get; set; }
+
+        [OnDeserialized]
+        internal void OnDeserialized(StreamingContext context)
+        {
+            if (Data == null)
+                IsSuccess = false;
+            else
+                IsSuccess = true;
+        } 
     }
 
     public class StatusData

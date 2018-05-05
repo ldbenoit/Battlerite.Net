@@ -10,14 +10,11 @@ using Rocket.Battlerite.Converters;
 
 namespace Rocket.Battlerite
 {
-    public partial class MatchResponseBase : IResponse
+    public partial class MatchResponseBase : DataResponse<MatchData>, IResponse
     {
         [JsonProperty("data")]
         [JsonConverter(typeof(MatchDataConverter))]
-        public IList<MatchData> Data { get; set; }
-        
-        [JsonProperty("errors")]
-        public List<Error> Errors { get; set; }
+        public override IList<MatchData> Data { get; set; }
 
         [JsonProperty("included")]
         [JsonConverter(typeof(IncludeConverter))]
@@ -29,9 +26,6 @@ namespace Rocket.Battlerite
         [JsonProperty("meta")]
         public Meta Meta { get; set; }
 
-        [JsonIgnore]
-        public bool IsSuccess { get; set; }
-        
         [OnDeserialized]
         internal void OnDeserialized(StreamingContext context)
         {

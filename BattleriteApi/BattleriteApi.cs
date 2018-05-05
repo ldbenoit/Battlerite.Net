@@ -147,10 +147,6 @@ namespace Rocket.Battlerite
             {
                 string json = await response.Content.ReadAsStringAsync();
                 var result = JsonConvert.DeserializeObject<T>(json);
-                if (result.Errors != null)
-                    result.IsSuccess = false;
-                else
-                    result.IsSuccess = true;
                 return result;
             }
             else

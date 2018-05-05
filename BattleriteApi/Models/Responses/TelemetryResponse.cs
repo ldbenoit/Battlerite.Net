@@ -10,16 +10,8 @@ namespace Rocket.Battlerite
     using Rocket.Battlerite.Converters;
 
     [JsonConverter(typeof(TelemetryConverter))]
-    public partial class TelemetryResponse : IResponse
-    {
-        public IList<TelemetryData> Data { get; set; }
-
-        [JsonProperty("errors")]
-        public List<Error> Errors { get; set; }
-
-        [JsonIgnore]
-        public bool IsSuccess { get; set; }
-        
+    public partial class TelemetryResponse : DataResponse<TelemetryData>, IResponse
+    {        
         public IList<QueueEvent> QueueEvents { get; set; }
         public IList<MatchReservedUser> MatchReservedUsers { get; set; }
         public IList<RoundEvent> RoundEvents { get; set; }
