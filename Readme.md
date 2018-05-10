@@ -1,6 +1,6 @@
 # Battlerite.net
 
-An asynchronous API wrapper for the official [Battlerite Api](http://battlerite-docs.readthedocs.io/en/master/introduction.html).
+A C# asynchronous API wrapper for the official [Battlerite Api](http://battlerite-docs.readthedocs.io/en/master/introduction.html).
 
 ## Installation
 
