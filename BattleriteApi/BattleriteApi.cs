@@ -16,13 +16,11 @@ namespace Rocket.Battlerite
     {
         private readonly string _apiKey;
         private HttpClient _client;
-        private const string baseUrl =  "https://api.dc01.gamelockerapp.com/shards/global";
-        private const string statusUrl =  "https://api.dc01.gamelockerapp.com/status";
-        private const string playersUrl =  "https://api.dc01.gamelockerapp.com/shards/global/players";
-        private const string teamsUrl =  "https://api.dc01.gamelockerapp.com/shards/global/teams";
-        private const string matchesUrl =  "https://api.dc01.gamelockerapp.com/shards/global/matches";
-        private const string gameplayJson =  "Assets/gameplay.json";
-        private const string stackableJson =  "Assets/stackables.json";
+        private const string baseUrl =  "https://api.developer.battlerite.com/shards/global";
+        private const string statusUrl =  "https://api.developer.battlerite.com/status";
+        private const string playersUrl =  "https://api.developer.battlerite.com/shards/global/players";
+        private const string teamsUrl =  "https://api.developer.battlerite.com/shards/global/teams";
+        private const string matchesUrl =  "https://api.developer.battlerite.com/shards/global/matches";
         private JObject _gameplay;
         private JObject _stackable;
 
@@ -303,30 +301,3 @@ namespace Rocket.Battlerite
     }
 }
 
-// curl -g "https://cdn.gamelockerapp.com/stunlock-studios-battlerite/global/2018/03/24/07/05/c6c832a0-2f31-11e8-bfd6-0a5864602bsaf-telemetry.json" \
-// -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkODBkZDI0MC1iNmNhLTAxMzUtM2MwNy0wYTU4NjQ2MGRjNjIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTExOTE1NjA5LCJwdWIiOiJzdHVubG9jay1zdHVkaW9zIiwidGl0bGUiOiJiYXR0bGVyaXRlIiwiYXBwIjoiYmF0dGxlcmF0ZS00ZDNhZGY2YS0zY2UyLTQzYzgtYTVlNy00NGQ0ZDk1ZWZlMzYiLCJzY29wZSI6ImNvbW11bml0eSIsImxpbWl0IjoxMH0.rouvGKtb-t14fEeO5fRnKATa9Ns-K335lm5rxf8_Atw " \
-// -H "Accept: application/vnd.api+json" -i
-
-// curl -g "https://api.dc01.gamelockerapp.com/shards/global/matches?sort=-createdAt&page[limit]=1&filter[playerIds]=798367224359428096&" \
-// -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkODBkZDI0MC1iNmNhLTAxMzUtM2MwNy0wYTU4NjQ2MGRjNjIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTExOTE1NjA5LCJwdWIiOiJzdHVubG9jay1zdHVkaW9zIiwidGl0bGUiOiJiYXR0bGVyaXRlIiwiYXBwIjoiYmF0dGxlcmF0ZS00ZDNhZGY2YS0zY2UyLTQzYzgtYTVlNy00NGQ0ZDk1ZWZlMzYiLCJzY29wZSI6ImNvbW11bml0eSIsImxpbWl0IjoxMH0.rouvGKtb-t14fEeO5fRnKATa9Ns-K335lm5rxf8_Atw " \
-// -H "Accept: application/vnd.api+json"
-
-// curl -g "https://api.dc01.gamelockerapp.com/shards/global/matches/952E2327D7D744478E4DEBBB1A40B191" \
-// -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkODBkZDI0MC1iNmNhLTAxMzUtM2MwNy0wYTU4NjQ2MGRjNjIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTExOTE1NjA5LCJwdWIiOiJzdHVubG9jay1zdHVkaW9zIiwidGl0bGUiOiJiYXR0bGVyaXRlIiwiYXBwIjoiYmF0dGxlcmF0ZS00ZDNhZGY2YS0zY2UyLTQzYzgtYTVlNy00NGQ0ZDk1ZWZlMzYiLCJzY29wZSI6ImNvbW11bml0eSIsImxpbWl0IjoxMH0.rouvGKtb-t14fEeO5fRnKATa9Ns-K335lm5rxf8_Atw " \
-// -H "Accept: application/vnd.api+json"
-
-// curl -g "https://api.dc01.gamelockerapp.com/shards/global/players/798367224359428096" \
-// -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkODBkZDI0MC1iNmNhLTAxMzUtM2MwNy0wYTU4NjQ2MGRjNjIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTExOTE1NjA5LCJwdWIiOiJzdHVubG9jay1zdHVkaW9zIiwidGl0bGUiOiJiYXR0bGVyaXRlIiwiYXBwIjoiYmF0dGxlcmF0ZS00ZDNhZGY2YS0zY2UyLTQzYzgtYTVlNy00NGQ0ZDk1ZWZlMzYiLCJzY29wZSI6ImNvbW11bml0eSIsImxpbWl0IjoxMH0.rouvGKtb-t14fEeO5fRnKATa9Ns-K335lm5rxf8_Atw " \
-// -H "Accept: application/vnd.api+json"
-
-// curl "https://api.dc01.gamelockerapp.com/shards/global/players?filter[playerIds]=798367224359428096,798326804736778240" \
-// -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkODBkZDI0MC1iNmNhLTAxMzUtM2MwNy0wYTU4NjQ2MGRjNjIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTExOTE1NjA5LCJwdWIiOiJzdHVubG9jay1zdHVkaW9zIiwidGl0bGUiOiJiYXR0bGVyaXRlIiwiYXBwIjoiYmF0dGxlcmF0ZS00ZDNhZGY2YS0zY2UyLTQzYzgtYTVlNy00NGQ0ZDk1ZWZlMzYiLCJzY29wZSI6ImNvbW11bml0eSIsImxpbWl0IjoxMH0.rouvGKtb-t14fEeO5fRnKATa9Ns-K335lm5rxf8_Atw " \
-// -H "Accept: application/vnd.api+json"
-
-// curl -g "https://api.dc01.gamelockerapp.com/status" \
-// -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkODBkZDI0MC1iNmNhLTAxMzUtM2MwNy0wYTU4NjQ2MGRjNjIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTExOTE1NjA5LCJwdWIiOiJzdHVubG9jay1zdHVkaW9zIiwidGl0bGUiOiJiYXR0bGVyaXRlIiwiYXBwIjoiYmF0dGxlcmF0ZS00ZDNhZGY2YS0zY2UyLTQzYzgtYTVlNy00NGQ0ZDk1ZWZlMzYiLCJzY29wZSI6ImNvbW11bml0eSIsImxpbWl0IjoxMH0.rouvGKtb-t14fEeO5fRnKATa9Ns-K335lm5rxf8_Atw " \
-// -H "Accept: application/vnd.api+json" -i
-
-// curl -g "https://api.dc01.gamelockerapp.com/status"
-// -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkODBkZDI0MC1iNmNhLTAxMzUtM2MwNy0wYTU4NjQ2MGRjNjIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTExOTE1NjA5LCJwdWIiOiJzdHVubG9jay1zdHVkaW9zIiwidGl0bGUiOiJiYXR0bGVyaXRlIiwiYXBwIjoiYmF0dGxlcmF0ZS00ZDNhZGY2YS0zY2UyLTQzYzgtYTVlNy00NGQ0ZDk1ZWZlMzYiLCJzY29wZSI6ImNvbW11bml0eSIsImxpbWl0IjoxMH0.rouvGKtb-t14fEeO5fRnKATa9Ns-K335lm5rxf8_Atw " \
-// -H "Accept: application/vnd.api+json" -i -g

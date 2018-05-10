@@ -10,7 +10,7 @@ namespace Rocket.Battlerite
         public long Avatar { get; set; }
 
         public bool IsWinner { get; set; }
-        public IEnumerable<PlayerMatchInfo> Players { get; set; }
+        public IList<PlayerMatchInfo> Players { get; set; }
         public RosterStats Stats { get; set; }
     }
 }
